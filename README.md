@@ -14,6 +14,7 @@ Building skills with consistency & clarity
 
 ## 🛠️ Tech Stack (Learning & Using)
 **Languages:** Java, HTML, CSS, JavaScript (Basics)  
+**Frameworks**: (if any)  
 **Core CS:** Data Structures & Algorithms  
 **Tools:** Git, GitHub, VS Code
 
