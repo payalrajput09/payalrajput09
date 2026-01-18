@@ -34,7 +34,7 @@ Building skills with consistency & clarity
 ---
 
 ## 🌐 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/payal-rajput20c  
+**LinkedIn:** https://www.linkedin.com/in/payal-rajput2006  
 **Instagram:** https://www.instagram.com/payalrajput.dev/
 
 ---
