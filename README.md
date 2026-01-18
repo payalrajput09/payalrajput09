@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Payal Rajput
 
-<!--
-**payalrajput09/payalrajput09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CST ’28 Student**  
+💻 **Tech Learner | Developer in Progress**  
+🚀 **Building skills with consistency & clarity**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Currently learning **Java, Web Development & DSA**
+- Focused on strong fundamentals and clean coding practices
+- Believe in consistency over motivation
+- Sharing my learning journey step by step
+
+---
+
+## 🛠️ Tech Stack (Learning & Using)
+**Languages:** Java, HTML, CSS, JavaScript (Basics)  
+**Core CS:** Data Structures & Algorithms  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Current Goals
+- Strengthen DSA concepts
+- Build small but meaningful projects
+- Improve problem-solving skills
+- Maintain daily coding consistency
+
+---
+
+## 📂 Projects
+> Projects coming soon 🚧  
+> Currently working on practice projects to apply concepts.
+
+---
+
+## 🌐 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/payal-rajput20c  
+**Instagram:** https://www.instagram.com/payalrajput.dev/
+
+---
+
+✨ *Learning one step at a time. Growing every day.*
