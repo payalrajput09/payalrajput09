@@ -1,8 +1,6 @@
-# Hi 👋, I'm Payal Rajput
-
-🎓 **B.Tech CST ’28 Student**  
-💻 **Tech Learner | Developer in Progress**  
-🚀 **Building skills with consistency & clarity**
+Hi 👋, I’m Payal Rajput  
+B.Tech CST ’28 | Java & Web Dev | DSA Learner | Clean code & consistency  
+Building skills with consistency & clarity
 
 ---
 
